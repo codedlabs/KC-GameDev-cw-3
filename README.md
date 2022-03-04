@@ -24,27 +24,11 @@
 
 
 
-قم بإنشاء ملف جديد اسمه gameDev 
-
-
-
-افتح visual studio و قم بإنشاء مشروع جديد 
-
-
-
-احفظ المشروع باسم CW-1-1 و احفظه بالملف
-
-
-
-عرف متغير characterName واضف اليه قيمة اسم البطل. 
-
-
-
- عرف متغير speed , age, superPower1, superPower2 واضف اليهم المعلومات.
-
-
-
-استخدم Console.WriteLine لطباعة النص بالاسفل.
+- افتح visual studio و قم بإنشاء مشروع جديد 
+- احفظ المشروع باسم c2-cw1 و احفظه بمجلد ال GitHub
+- عرف متغير characterName وأضف إليه قيمة اسم البطل. 
+- عرف متغير speed , age, superPower1, superPower2 وأضف إليهم المعلومات.
+- استخدم Console.WriteLine لطباعة النص بالأسفل.
 <p dir="rtl">
 مثال لناتج التمرين:</p>
 
